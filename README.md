@@ -17,7 +17,7 @@
 <p align="left"> <a href="https://git.io/streak-stats"><img alt="Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=AsifNawaz-cnic&theme=onedark&hide_border=true" /></a> </p>
 
 <!-- - ### 🔭 Working at CentralNic Ltd -->
-- ### 🌱 Working as Software Engineer (middleware) at CentralNic Ltd, Middleware.
+- ### 🌱 Working as a Software Engineer, Middleware at CentralNic Ltd.
 - ### 😄 Pronouns: He/Him
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AsifNawaz-cnic" alt="AsifNawaz" /> </p>
